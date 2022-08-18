@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KM-Tanvir-Anjum
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java & python
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me email: tanvirnp20@gmail.com
 
 <!---
